@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+# Sobre esse projeto:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> ### Se você está aqui para consultar React  👇:
+> 
+> -   Esse projeto é um projeto em React com o objetivo de estudo e consulta.
+> -   Criação de uma aplicação de uma  `Rotas - paginação`.
+> - Para trabalhar com essas `Rotas de pagianção` é preciso instalar o pacote: `react-router-dom`.
+> - Pare a aplicaçãco (`control + c`), abra o CMD dentro da pasta do projeto e digite:
+> > - `yarn install react-router-dom`
+> > OU
+> > - `yarn install react-router-dom`
+> > - Se não funcionar, substitua a palava `install` por `add`. 
 
-## Available Scripts
+> ### Se você está aqui para estudar  👇:
+> 
+> É uma continuação sobre dois projetos anteriores:
+> 
+> > -   [Princípio Básico de JavaScript](https://github.com/DFMaia/PrincipiosBasicosJavaScript)
+> > -   [Meu Primeiro projeto React](https://github.com/DFMaia/primeiro-projeto-react)
+> > -   [Primeiro Projeto React consumindo uma API](https://github.com/DFMaia/react-api/tree/master/src)
+> > - [Projeto de Lista de tarefas](https://github.com/DFMaia/react-todo-project)
 
-In the project directory, you can run:
+### Sobre os links:
 
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+> -   Sobre  [Princípio Básico de JavaScript](https://github.com/DFMaia/PrincipiosBasicosJavaScript)  oferece um overview básico sobre JS.
+> 
+> -   Sobre o  [Meu Primeiro projeto React](https://github.com/DFMaia/primeiro-projeto-react):
+> -   Cada commit possui um exemplo diferente de código com soluções de problemas diferentes.
+> -   No README há uma explicação das instalções necessárias para se fazer tal projeto e o passo a passo de como inicializar um projeto React.
+> 
+> -   Sobre o  [Primeiro Projeto React consumindo uma API](https://github.com/DFMaia/react-api/tree/master/src): aplica todo co conhecimento adotado consumindo uma API.
+> - [Projeto de Lista de tarefas](https://github.com/DFMaia/react-todo-project): Continua o conhecimento dos links anteriores (sem abordar consumo de API) e reforça o conhecimento de classes. 
