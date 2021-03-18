@@ -6,7 +6,7 @@ class Header extends Component{
         return(
             <div>
                 Meu projeto Header <br/>
-                <Link to="/sobre">Ir para Sobre</Link>
+                <Link to="/">Home</Link>
                 <hr/>
             </div>
         );
